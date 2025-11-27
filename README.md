@@ -1,5 +1,4 @@
-# Gopher! 643 508 627264
-
+# Gopher! 
 ## go
 
 ### make new
